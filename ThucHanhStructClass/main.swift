@@ -95,3 +95,5 @@ print("Sau khi thay đổi:")
 arraySV.forEach { sv in
     print(sv.tenSV, sv.diemToan, sv.diemTB)
 }
+
+print("New update to git")   
